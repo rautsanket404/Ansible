@@ -1,0 +1,7 @@
+---
+- name: Playbook for AWS EC2 cloudwatch Auto recovery
+  hosts: localhost
+  connection: local
+  gather_facts: False
+  roles:
+    - ec2_cloudwatch_instance_recovery_alarm

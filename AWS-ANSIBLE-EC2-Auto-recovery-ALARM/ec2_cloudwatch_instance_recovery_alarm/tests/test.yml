@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: root
+  roles:
+    - ec2_cloudwatch_instance_recovery_alarm

@@ -1,0 +1,6 @@
+---
+# defaults file for ec2_cloudwatch_instance_recovery_alarm
+
+instance_id_query: "[].instance_id"
+
+instance_name_tag_query: "[].tags.Name"
