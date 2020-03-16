@@ -1,7 +1,7 @@
 Ec2_cloudwatch_instance_recovery_alarm
 =========
 
-AWS EC2 cloudwatch auto recovery alarm in case of ec2 system health check fail , which means underlying hardware has some issues. 
+AWS EC2 cloudwatch auto recovery alarm in case of ec2 system health check fail , which means underlying hardware has some issues.
 
 Additional information can be found here
 
@@ -64,4 +64,3 @@ Sanket Raut
 rautsankets@yahoo.com
 linkedin.com/in/sanket-raut-49213017
 ```
-# Ansible
